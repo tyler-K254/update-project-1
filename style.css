@@ -1,0 +1,188 @@
+html {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  html, body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .logo{
+    text-align: center;
+    background-color: #061091;
+    color: white;
+    padding: 0.5em;
+  }
+  
+  #character-bar {
+    height: 15vh;
+    /* background: rgb(49, 109, 179); */
+    background: #061091;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 7.5vh;
+    padding-left: 50px;
+  }
+
+  .heading{
+    padding-top: 20px;
+    padding-bottom: 35px;
+  }
+  
+
+
+  #icon{
+    padding: 1%;
+    /* height: 80%;
+    width: 6.5vw; */
+    height: 180%;
+    width: 7.0vw;
+    display: flex;
+    justify-content: center;
+    font-size: 3vh;
+    align-items: center;
+    border-radius: 5em;
+    border: 7.5px solid #FF6B06;
+    background-color: white;
+  }
+
+  @media (max-width:1980px) {
+    #icon{
+      height: 160%;
+      width: 8.0vw;
+     
+
+    }
+  }
+
+  @media (max-width:1500px) {
+    #icon{
+      height: 140%;
+      width: 9.0vw;
+     
+
+    }
+  }
+
+  @media (max-width:1030px) {
+    #icon{
+      height: 130%;
+      width: 10.0vw;
+     
+
+    }
+  }
+
+  /* #activityDiv{
+    padding: 10%;
+    margin: 1%;
+    height: 90%;
+    width: 10vw;
+    display: flex;
+    justify-content: center;
+    font-size: 3vh;
+    align-items: center;
+    background-color: red;
+  } */
+
+  .activityTitle{
+    position: relative;
+    top: 110px;
+    right: 240px;
+    color: white;
+
+  }
+
+  @media (max-width:1980px) {
+    .activityTitle{
+      position: relative;
+      top: 110px;
+      right: 195px;
+     
+
+    }
+  }
+
+  @media (max-width:1500px) {
+    .activityTitle{
+      position: relative;
+      top: 110px;
+      right: 150px;
+     
+
+    }
+  }
+
+  @media (max-width:1080px) {
+    .activityTitle{
+      position: relative;
+      top: 120px;
+      right: 90px;
+     
+
+    }
+  }
+
+  .location{
+    padding: 40px;
+    font-size: 150%;
+  }
+  
+  .characterInfo{
+    height: 550px;
+    padding: 30px;
+    font-size: 24px;
+    /* border: dotted; */
+    text-align: center;
+  }
+  
+  input[type="submit"], button {
+    background-color: rgb(49, 109, 179);
+    color: white;
+    font-size: 18px;
+    border-radius: 6px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  input[type="text"] {
+    font-size: 3vh;
+  }
+
+  #detailed-info{
+    position: relative;
+  }
+  
+  .frame{
+    position: absolute;
+    text-align: center;
+  }
+  
+  #image{
+    width: 550px;
+    height: 550px;
+    text-align: center;
+    z-index: 1;
+  }
+
+  #name{
+    font-size: 150%;
+    font-weight: bold;
+  }
+
+  #place-3{
+    padding-bottom: 70px;
+  }
+
+  .line_1{
+    
+    margin: 50px auto;
+    border-style: solid;
+    border-radius: 25px;
+    height: 5px;
+    width: 80%;
+    color: #E0FFF0;
+    background-color: #DFF0E7
+  }
+  
+  

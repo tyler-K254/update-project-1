@@ -1,0 +1,52 @@
+{
+    "characters": [
+      {
+        "id": 1,
+        "name": "GP carting",
+        "title": "GP carting",
+        "icon": "Images/Screenshot from 2023-04-06 13-06-03.png",
+        "image": "https://images.unsplash.com/photo-1505570554449-69ce7d4fa36b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "place1": "GP carting Ltd (Langata road): Rates starting at ksh 1500",
+        "place2": "Mad Max (Two Rivers Mall): Rates starting at ksh 2500",
+        "place3": "Whistling Morans (Athi River, Nairobi): Rates starting at ksh 2000"
+      },
+      {
+        "id": 2,
+        "title": "Bowling alleys",
+        "icon": "Images/black-bowling-ball-striking-bowling-pins_207928-29-removebg-preview.png",
+        "name": "Bowling",
+        "place1": "Village Market (Limuru Road Gigiri): Price ksh 500",
+        "place2": "Sarit Center (Westlands): Price ksh 600",
+        "place3": "Next-Gen Mall (Mombasa Road): ksh 500",
+        "image": "Images/pexels-skitterphoto-4192.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Ziplining",
+        "icon": "Images/zipline.jpg",
+        "name": "Ziplining",
+        "place1": "The Hub (Karen): Price ksh 1500",
+        
+        "image": "Images/Screen-Shot-2017-09-06-at-11.36.18-AM.png"
+        
+      },
+      {
+        "id": 4,
+        "title": "Archery",
+        "icon": "Images/archery-vector-graphic_866595588_large.jpg",
+        "name": "Archery",
+        "place1": "Nairobi Archery Club (Mamba Village, Langata road): Price ksh 1500",
+        "place2": "Kenya Archery Association (Strathmore University, Langata road): Price ksh 600",
+        "image": "Images/Archery-In-Nairobi-1200x900.jpeg"
+      },
+      {
+        "id": 5,
+        "title": "Indoor Rock-climbing",
+        "icon": "Images/rock-climbing-sport-illustration-1.jpg",
+        "name": "Indoor Rock-climbing",
+        "place1": "Diamond Plaza (Parklands): Price ksh 1400",
+        "image": "Images/rock climbing.jpg"
+      }
+    ]
+  }
+  
