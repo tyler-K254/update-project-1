@@ -50,7 +50,7 @@ html {
   @media (max-width:1980px) {
     #icon{
       height: 160%;
-      width: 8.0vw;
+      width: 6.0vw;
      
 
     }
@@ -59,7 +59,7 @@ html {
   @media (max-width:1500px) {
     #icon{
       height: 140%;
-      width: 9.0vw;
+      width: 6.5vw;
      
 
     }
@@ -88,8 +88,8 @@ html {
 
   .activityTitle{
     position: relative;
-    top: 110px;
-    right: 240px;
+    top: 90px;
+    right: 175px;
     color: white;
 
   }
@@ -97,8 +97,8 @@ html {
   @media (max-width:1980px) {
     .activityTitle{
       position: relative;
-      top: 110px;
-      right: 195px;
+      top: 80px;
+      right: 175px;
      
 
     }
@@ -107,7 +107,7 @@ html {
   @media (max-width:1500px) {
     .activityTitle{
       position: relative;
-      top: 110px;
+      top: 80px;
       right: 150px;
      
 
@@ -117,7 +117,7 @@ html {
   @media (max-width:1080px) {
     .activityTitle{
       position: relative;
-      top: 120px;
+      top: 80px;
       right: 90px;
      
 
@@ -185,4 +185,8 @@ html {
     background-color: #DFF0E7
   }
   
-  
+/* 
+  .filler{
+    background: #061091;
+  }
+   */
